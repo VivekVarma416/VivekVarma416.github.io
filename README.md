@@ -1,6 +1,7 @@
 # Data Scientist
 ### Education
-Physics, PhD
+University of cincinnati, Masters in Computer Engineering ,OH, USA
+Jawaharlal Nehru Technological Unniversity, Electronics and Communication Engineering, India
 ### work Experience
 Data scientist @ Toyota Financial Services
 - big impact project 1!
