@@ -1,4 +1,4 @@
-# Data Analyxst
+# Data Analyst
 
 #### Technical Skills : Python, SQL, Tableau, MATLAB
 
